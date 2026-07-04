@@ -258,7 +258,7 @@ export default function Hero() {
                 </svg>
                 <span className="text-[10px] text-white/40 font-medium">Contributions</span>
               </div>
-              <span className="text-[10px] text-emerald-400 font-semibold">87 this year</span>
+              <span className="text-[10px] text-emerald-400 font-semibold">118 this year</span>
             </div>
 
             <div className="flex gap-[3px]">
